@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #to run the app, python manage.py runserver
 #to apply to the database, run 'python manage.py migrate blog'
+#to activate virtual envt on bash - source myvenv/scripts/activate
+#
 import os
 import sys
 
